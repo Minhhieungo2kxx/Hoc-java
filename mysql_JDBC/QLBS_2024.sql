@@ -1,7 +1,7 @@
 create database QLBS2024
 use QLBS2024
 
--- tao cac bang trong database
+-- tao cac bang trong database my sql
 
 CREATE TABLE tChiTietHDB (
     SoHDB VARCHAR(10) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
